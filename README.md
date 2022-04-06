@@ -18,7 +18,7 @@ Updating the parameters to customize some features is not as trivial as other li
 
 ## Output
 <p align="center">
-  <a href="Outputs/output.png"><img src="![newplot](https://user-images.githubusercontent.com/85709371/161957517-220027a9-e295-4253-8a2d-e15e2b242eb6.png)" alt="output"></a>
+  <a href="Outputs/output.png"><img src="https://user-images.githubusercontent.com/85709371/161957517-220027a9-e295-4253-8a2d-e15e2b242eb6.png)" alt="output"></a>
 </p>
   
 ## *Author Name*
