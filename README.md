@@ -18,3 +18,6 @@ Updating the parameters to customize some features is not as trivial as other li
 
 ## Output
 <!-- ![Screenshot (155)]() -->
+
+## *Author Name*
+[Vikrant](https://github.com/vikrant-v28)
