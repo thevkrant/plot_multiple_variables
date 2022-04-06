@@ -12,7 +12,7 @@ Updating the parameters to customize some features is not as trivial as other li
 * `Python 3`
 * `Plotly`
 
-<!-- ### Source Code -->
+### Source Code
 ```python3
 #Data
 months = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
