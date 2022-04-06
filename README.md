@@ -8,3 +8,7 @@ Plotly Express is a great library to plot and be able to interact with the graph
 
 
 Updating the parameters to customize some features is not as trivial as other libraries, but there's plenty of documentation and help online. It is worth it the work!
+
+### Prerequisites
+* `Python 3`
+* `Plotly`
