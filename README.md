@@ -15,3 +15,6 @@ Updating the parameters to customize some features is not as trivial as other li
 <!-- ### Source Code -->
 ```python3
 ```
+
+## Output
+![Screenshot (155)](https://user-images.githubusercontent.com/85709371/147453381-a5b622a3-8e49-4d73-803d-11e468acefb1.png)
