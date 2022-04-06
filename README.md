@@ -17,7 +17,9 @@ Updating the parameters to customize some features is not as trivial as other li
 ```
 
 ## Output
-<!-- ![Screenshot (155)]() -->
-
+<p align="center">
+  <a href="Outputs/output.png"><img src="https://user-images.githubusercontent.com/85709371/148979982-8e8bf184-7c3c-4ef4-8185-e86b6212a9fa.png" alt="output"></a>
+</p>
+  
 ## *Author Name*
 [Vikrant](https://github.com/vikrant-v28)
